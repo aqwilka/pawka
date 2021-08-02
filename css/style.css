@@ -1,0 +1,29 @@
+.header {
+    width: 70%;
+    max-width: 1080px;
+    margin: 3em auto;
+
+}
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+}
+
+.drowdown-label{
+    padding: .1em 1.3em;
+    border: 2px solid rgba(0, 49, 185, 0.356);
+    border-radius: 16px;
+    background: rgba(3, 89, 187, 0.555);
+    cursor: pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    transition-property: color ;    
+    transition-duration: 3s;
+    color: white
+}
+
+.dropdown-label:hover{
+    transition-property: color ;    
+    transition-duration: 3s;
+    color: white;
+}
