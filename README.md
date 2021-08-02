@@ -1,2 +1,0 @@
-# pawka
-pomogi mne brat
